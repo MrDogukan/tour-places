@@ -11,7 +11,10 @@
     padding: 20px;
     border-radius: 7px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7);
+    margin: 1rem;
+    position: relative;
     overflow: hidden;
+    
 }
 
 .title{
@@ -29,7 +32,7 @@
 .cards img {
     object-fit: cover;
     height: 350px;
-    width: 500px;
+    width: 450px;
     border-radius: 7px;
     filter: grayscale(0%);
 }
